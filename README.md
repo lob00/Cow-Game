@@ -12,7 +12,7 @@ Cow game is a project developed by my self when i lerned about programing logic.
 
 > Cow game is built in a way 
 
-> >> *1.* To run the game it will be necessary run in W10 or superior, Linux, Mac os and OS X sistems.
+>> *1.* To run the game it will be necessary run in W10 or superior, Linux, Mac os and OS X sistems.
 
 >> *2.* Extract the files
 
