@@ -1,6 +1,6 @@
 <h1> Cow Game </h1>
 
-> Project Status: Complet
+> Project Status: Complete!
 
 > Version 1.02
 
